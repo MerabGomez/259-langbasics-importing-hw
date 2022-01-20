@@ -1,7 +1,9 @@
 #PSYC 259 Homework 1 - Data Import
 #For full credit, provide answers for at least 6/8 questions
 
-#List names of students collaborating with (no more than 2): 
+#List names of students collaborating with (no more than 2):
+
+#Laura Ashlock#
 
 #GENERAL INFO 
 #data_A contains 12 files of data. 
